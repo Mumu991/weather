@@ -6,7 +6,7 @@
  * @Description:
 -->
 
-# daily_reminder
+# weather
 
 自动化定时推送微信天气
 
