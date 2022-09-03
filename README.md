@@ -12,7 +12,7 @@
 
 ## 操作流程
 
-1.  [查看git链接](https://github.com/Mumu99/daily_reminder)
+1.  [查看git链接](https://github.com/Mumu991/weather)
 2. 直接fork、然后修改config.txt里面的内容
 3. 需要用到的api地址
    1. [微信公众平台测试接口](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login) ps: 能获取到 appID、appsecret、用户微信号、模板ID
