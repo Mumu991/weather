@@ -1,11 +1,3 @@
-<!--
- * @Author: v_polixiong v_polixiong@tencent.com
- * @Date: 2022-08-23 09:35:50
- * @LastEditors: v_polixiong v_polixiong@tencent.com
- * @LastEditTime: 2022-08-23 10:48:52
- * @Description:
--->
-
 # weather
 
 自动化定时推送微信天气
